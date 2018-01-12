@@ -98,7 +98,7 @@ class NeuralNetwork(object):
         #print ("error", error)
 
         # TODO: Backpropagated error terms - Replace these values with your calculations.
-        output_error_term = error # f'(X) = 1
+        output_error_term = error #* f'(X) = 1
 
         # TODO: Calculate the hidden layer's contribution to the error
         hidden_error = np.dot(self.weights_hidden_to_output, output_error_term)
