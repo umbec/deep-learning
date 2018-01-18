@@ -34,11 +34,11 @@ pyzmq==16.0.2
 qtconsole==4.3.0
 simplegeneric==0.8.1
 six==1.10.0
-tensorflow==1.0.0
+tensorflow==1.0.1
 terminado==0.6
 testpath==0.3
-tornado==4.4.3
+tornado==4.5.3
 traitlets==4.3.2
 wcwidth==0.1.7
-webencodings==0.5
+webencodings==0.5.1
 widgetsnbextension==2.0.0
